@@ -92,3 +92,11 @@ nav ul li a{
 .dark-3{
     color:rgb(117, 117, 117) ;
 }
+
+
+/*about section*/
+.section-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: rgb(24, 24, 24);   
+}
